@@ -1,7 +1,31 @@
 # testing-knowledgebase
 Testing Knowledge Base - general items I have picked up along the way
 
-# What to test
+ An exhaustive QA process should include the following tests: unit, build verification, functional, business cycle, UI, regression, boundary, database integrity, performance, security, failure and recovery, configuration/compatibility and installation. Each of these tests serves a specific purpose and passing each of these tests is essential to the long-term functionality and success of a software application.
+
+# What to test QA Process
+## Types
+- unit
+- build verification
+- functional
+- UI
+- regression
+- boundary
+- database integrity
+- performance
+- security
+- failover and recovery
+- configuration
+- infrastructure testing
+- 
+
+## Stack / Layers
+Each of the types can be applied to the following areas / layers.
+- OS, patches, network, packages, disks
+- bmc patrol, communications, monitoring agents, mq, 
+- application servers or server class and installation
+- application being developed
+
 
 
 ## Unit Testing
