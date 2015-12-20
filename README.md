@@ -17,7 +17,7 @@ Testing Knowledge Base - general items I have picked up along the way
 - failover and recovery
 - configuration
 - infrastructure testing
-- 
+- BDD (behaviour driven development) method to extract requirements / requirement testing type.
 
 ## Stack / Layers
 Each of the types can be applied to the following areas / layers.
